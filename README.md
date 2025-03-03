@@ -11,8 +11,6 @@ A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and r
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -22,7 +20,7 @@ A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and r
 
 ## Demo
 
-Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
+Check out the live demo [here](https://spotify-vic.netlify.app/).
 
 ## Technologies
 
@@ -34,7 +32,8 @@ Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/codewithbalaji/spotify-clone.git
+    https://github.com/Vic678/Spotify-clone-React.git
+
     ```
 2. Navigate to the project directory:
     ```sh
@@ -57,14 +56,3 @@ Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgements
-
-Special thanks to the GreatStack YouTube Channel for their invaluable tutorials and guidance.
-
-=======
-# Spotify-clone-React
->>>>>>> 2406c8888adc82b4c43869e556ec5e9b52569775
