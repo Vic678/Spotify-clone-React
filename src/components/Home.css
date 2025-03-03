@@ -1,0 +1,7 @@
+.Container2_Pages_App {
+    width: calc(100vw - 5rem);
+    height: calc(100vh - 3.48rem);
+    border-top: 2px solid rgba(128, 128, 128, 0.45);
+    overflow-y: none; /* Ensure vertical scrolling */
+    overflow-x: auto; /* Hide horizontal scrollbar */
+}
